@@ -1,0 +1,25 @@
+#gravatar {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#project_title {
+    margin-left: 120px;
+}
+
+#project_tagline {
+    margin-left: 120px;
+    margin-top: auto;
+    font-size: 22px !important;
+}
+
+#nav {
+    clear: left;
+}
+
+#nav li {
+    display: inline-block;
+    padding: 0;
+    margin-right: 10px;
+}
