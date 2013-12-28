@@ -4,6 +4,10 @@
     float: left;
 }
 
+#header_wrap .inner {
+    padding: 0;
+}
+
 #project_title {
     margin-left: 120px;
 }
@@ -11,11 +15,40 @@
 #project_tagline {
     margin-left: 120px;
     margin-top: auto;
+    width: 250px;
     font-size: 22px !important;
 }
 
 #nav {
     clear: left;
+}
+
+#nav .symbol {
+    font-size: 40px;
+}
+
+#twitter-icon {
+    color: #C0DEED;
+}
+
+#facebook-icon {
+    color: #4c66a4;
+}
+
+#github-icon {
+    color: #f3f3f3;
+}
+
+#linkedin-icon {
+    color: #069;
+}
+
+#stackoverflow-icon {
+    color: #FF7B14;
+}
+
+#email-icon {
+    color: #F9D114;
 }
 
 #nav li {
